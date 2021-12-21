@@ -1,9 +1,12 @@
-# EAS503 : Intro to Data Driven Analysis
+# EAS503 : INTRO TO DATA DRIVEN ANALYSIS
+# UNIVERSITY AT BUFFALO
+# MS in DATA SCIENCE FALL-2021
 
+<br>
 
+----
 ## Final Project Group 26
 
----
 SUBMITTED BY -
 ---
 | Name | Person ID | Email |
@@ -13,8 +16,12 @@ SUBMITTED BY -
 | Serath Chandra Nutakki | 50363265 | serathch@buffalo.edu |
 | Vamshivardhan Reddy Balannagari | 50435533 | vamshiva@buffalo.edu |
 
+<br>
 
 ---
+
+<br>
+
 REPO STRUCTURE AND DEFINATION - 
 ---
 
