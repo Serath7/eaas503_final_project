@@ -15,23 +15,23 @@ SUBMITTED BY -
 
 
 ---
-REPO STRUCTURE - 
+REPO STRUCTURE AND DEFINATION - 
 ---
 
-C:.
-├───data
-│   ├───genres(Downloaded Dataset)
-│   │   ├───blues
-│   │   ├───classical
-│   │   ├───country
-│   │   ├───disco
-│   │   ├───hiphop
-│   │   ├───jazz
-│   │   ├───metal
-│   │   ├───pop
-│   │   ├───reggae
-│   │   └───rock
-│   └───samples
-├───flask_application(API Server Codebase along with DB CRUD Operation)
-├───models(Weight files generated from Classical Machine Learning and Deep Learning Appraoch)
-└───model_generator(Codebase for Classical Machine Learning Methods and Deep Learning Methods)
+C:.<br>
+├───data<br>
+│   ├───genres (Downloaded GTZAN Dataset)<br>
+│   │   ├───blues<br>
+│   │   ├───classical<br>
+│   │   ├───country<br>
+│   │   ├───disco<br>
+│   │   ├───hiphop<br>
+│   │   ├───jazz<br>
+│   │   ├───metal<br>
+│   │   ├───pop<br>
+│   │   ├───reggae<br>
+│   │   └───rock<br>
+│   └───samples<br>
+├───flask_application (API Server Codebase along with DB CRUD Operation)<br>
+├───models (Weight files generated from Classical Machine Learning and Deep Learning Appraoch)<br>
+└───model_generator (Codebase for Classical Machine Learning Methods and Deep Learning Methods)<br>
